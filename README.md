@@ -48,3 +48,4 @@ The Blinkit Grocery Sales Dashboard provides key insights into sales performance
 
 This analysis highlights opportunities for **expansion in Tier 2 cities** and **product category focus on Breakfast and Regular fat content items**.
 <img src='https://github.com/AnkitBhagat17/Blinkit-Grocery-Sales-Analysisi/blob/main/Screenshot%202025-05-26%20102415.png'></img>
+<img src='https://github.com/AnkitBhagat17/Blinkit-Grocery-Sales-Analysisi/blob/main/Screenshot%202025-05-26%20102454.png'></img>
